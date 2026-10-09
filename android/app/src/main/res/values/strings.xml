@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MiCentralMX</string>
+    <string name="title_activity_main">MiCentralMX</string>
+    <string name="package_name">com.micentralmx.app</string>
+    <string name="custom_url_scheme">com.micentralmx.app</string>
+</resources>
